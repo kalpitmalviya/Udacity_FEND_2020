@@ -1,0 +1,20 @@
+
+nav {
+  margin: 0.4rem 0;
+  background-color: rgba(98, 12, 45, 0.411);
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #ecf9ff;
+}
+ul {
+  flex-direction: row;
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+  height: 6vh;
+  align-items: center;
+}

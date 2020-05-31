@@ -1,0 +1,18 @@
+.author{
+    text-align: center;
+}
+
+.query, article{
+    justify-content: center;
+    padding:15px;
+    line-height: 2;
+    font-size: 20px;
+    
+}
+
+#avatar{
+  width: 5%;
+  height: 60px;
+
+}
+
